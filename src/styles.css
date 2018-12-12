@@ -1,0 +1,8 @@
+input {
+    width: 60%;
+    height: 25px;
+}
+input.loading {
+    background-size: 25px 25px;
+    background: #ffffff url("http://loadinggif.com/images/image-selection/3.gif") no-repeat right center;
+}
